@@ -2,6 +2,7 @@ from email.iterators import body_line_iterator
 
 from django.contrib.auth.models import AbstractUser
 from django.db import models
+from ckeditor.fields import RichTextField
 
 # Create your models here.
 
@@ -44,10 +45,10 @@ class Course(ItemBase):
 class Lesson(ItemBase):
     class Meta:
         unique_together = ('subject', 'course')
-    content = models.TextField()
-    course = models.ForeignKey(Course, on_delete=models.CASCADE)
+    content = RichTextField()
+    course = models.ForeignKey(Course, related_name='lessons', on_delete=models.CASCADE)
     tags = models.ManyToManyField('Tag', blank=True, null=True)
-    #test git push!!!!!!!!!!!!!!!!!!!!!
+
 
 class Tag(models.Model):
     name = models.CharField(max_length=50, unique=True)

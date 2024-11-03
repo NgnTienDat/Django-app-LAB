@@ -5,13 +5,16 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1721e9a8-5144-4f39-9db5-b683ed585fcc" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/DjangoReactCourseApp.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/courseapp/courses/urls.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/courseapp/courses/paginators.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/courseapp/courses/serializers.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/courseapp/courses/templates/admin/course-stats.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/courseapp/courseapp/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/courseapp/courseapp/settings.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/courseapp/courseapp/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/courseapp/courseapp/urls.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/courseapp/courses/admin.py" beforeDir="false" afterPath="$PROJECT_DIR$/courseapp/courses/admin.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/courseapp/courses/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/courseapp/courses/models.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/courseapp/courses/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/courseapp/courses/urls.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/courseapp/courses/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/courseapp/courses/views.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -21,6 +24,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="HTML File" />
         <option value="Python Script" />
       </list>
     </option>
@@ -39,10 +43,18 @@
   </component>
   <component name="PropertiesComponent">{
   &quot;keyToString&quot;: {
+    &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;
   }
 }</component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\HK1_24-25\CNLT_HienDai\DjangoReactCourseApp\courseapp\courses\templates" />
+      <recent name="D:\HK1_24-25\CNLT_HienDai\DjangoReactCourseApp\courseapp\courses\templates\courses" />
+    </key>
+  </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
