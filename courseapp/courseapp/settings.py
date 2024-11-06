@@ -38,7 +38,8 @@ INSTALLED_APPS = [
     'courses.apps.CoursesConfig',
     'ckeditor',
     'ckeditor_uploader',
-    'rest_framework'
+    'rest_framework',
+     'drf_yasg',
 ]
 
 # REST_FRAMEWORK = {

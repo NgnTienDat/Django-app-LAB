@@ -5,15 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1721e9a8-5144-4f39-9db5-b683ed585fcc" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/courseapp/courses/paginators.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/courseapp/courses/serializers.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/courseapp/courses/templates/admin/course-stats.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/courseapp/courseapp/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/courseapp/courseapp/settings.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/courseapp/courseapp/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/courseapp/courseapp/urls.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/courseapp/courses/admin.py" beforeDir="false" afterPath="$PROJECT_DIR$/courseapp/courses/admin.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/courseapp/courses/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/courseapp/courses/models.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/courseapp/courses/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/courseapp/courses/urls.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/courseapp/courses/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/courseapp/courses/views.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
